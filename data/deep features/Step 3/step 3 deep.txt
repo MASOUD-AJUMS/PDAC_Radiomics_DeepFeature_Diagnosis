@@ -1,0 +1,1 @@
+Patient-Level Representation (Approach 3): Through column-wise fusion, features from multiple anatomical labels are combined into a comprehensive patient-level representation. This integrative perspective captures the interactions among various tissue types and significantly improves classification accuracy in complex or ambiguous cases. The above file is for deep features.
